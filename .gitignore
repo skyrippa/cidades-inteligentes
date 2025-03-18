@@ -1,0 +1,34 @@
+# 💡 Maven build files
+target/
+*.jar
+*.war
+
+# 💡 Logs & Temporary Files
+*.log
+hs_err_pid*
+
+# 💡 IDE-specific files (IntelliJ, Eclipse, VSCode)
+.idea/
+*.iml
+*.swp
+*.swo
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+# 💡 Operating System files
+.DS_Store
+Thumbs.db
+
+# 💡 Environment Variables & Secrets
+.env
+application.properties
+application.yml
+
+# 💡 Node.js (If using frontend in the same repo)
+node_modules/
+dist/
+
+# 💡 Docker files
+*.pid
