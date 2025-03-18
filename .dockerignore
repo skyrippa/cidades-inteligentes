@@ -1,0 +1,12 @@
+target/
+*.jar
+*.war
+*.iml
+*.log
+*.pid
+.env
+.DS_Store
+.git
+.idea
+.vscode
+node_modules/
